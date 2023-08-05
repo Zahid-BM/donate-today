@@ -42,6 +42,7 @@
     font-weight: 700;
     margin-bottom: 30px;
     color: #121212;
+    text-align: center;
 }
 .description{
     color: #B0B0B0;
@@ -78,4 +79,44 @@ hr{
     background-color: #DCDCDC;
     border: 0;
     margin-bottom: 50px;
+}
+/* donate plan style */
+.donate-plan{
+    
+}
+.donate-description{
+    text-align: center;
+    padding: 0 270px;
+    color: #7E7E7E;;
+}
+.donate-card-container{
+    margin: 50px 0;
+    display: flex;
+    justify-content: space-around;
+    padding: 0 200px;
+    gap: 30px;
+}
+.food-card{
+    padding: 50px 20px;
+    background-color:#EDF5F6;
+    border-radius: 5px;
+}
+.card-title{
+    font-size: 18px;
+    padding: 20px 0;
+    color: #121212;
+    font-weight: 600;
+}
+.card-description{
+    color: #7E7E7E;
+}
+.shelter-card{
+    padding: 50px 20px;
+    background-color:#FFEEEE;
+    border-radius: 5px;
+}
+.education-card{
+    padding: 50px 20px;
+    background-color: #FFF4D6;  
+    border-radius: 5px; 
 }
