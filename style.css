@@ -120,3 +120,35 @@ hr{
     background-color: #FFF4D6;  
     border-radius: 5px; 
 }
+/* depend  and survive section style */
+.depend{
+    padding: 0 200px;
+    margin: 150px 0 50px 0;
+}
+.survive{
+    padding: 0 200px;
+    margin: 150px 0 100px 0;
+}
+.flex-container{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+.flex-data{
+
+}
+.flex-title{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    color: #121212;
+}
+.flex-text{
+    color: #7E7E7E;
+    margin-bottom: 20px;
+}
+.flex-image{
+    width: 480px;
+    border-radius: 5px;
+    height: 400px;
+}
