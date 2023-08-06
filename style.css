@@ -2,6 +2,9 @@
     margin: 0;
     font-family: 'Open Sans', sans-serif;
     font-family: 'Roboto', sans-serif;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 
 /* header and banner styles */
@@ -175,9 +178,7 @@ input{
     width: 230px;
     
 }
-.email{
-    
-}
+
 .btn-subscribe{
     border: 0;
     color: white;
@@ -187,3 +188,20 @@ input{
     width: 150px;
 }
 
+/* footer style */
+footer{
+    background-color: #121212;
+    text-align: center;
+}
+.footer-title{
+    padding: 40px 0 30px;
+    color: #FF5959;
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    font-weight: 900;
+    
+}
+.footer-text{
+    padding-bottom: 40px;
+    color: white;
+}
